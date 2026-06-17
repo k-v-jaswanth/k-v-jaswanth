@@ -1,6 +1,5 @@
 # 🚀 Final GitHub README.md for Kamarajugadda Venkata Jaswanth
 
-```md
 <h1 align="center">Hi 👋, I'm Kamarajugadda Venkata Jaswanth</h1>
 <h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
 
@@ -228,4 +227,4 @@ https://github.com/k-v-jaswanth/Real-Time-AI-Security-System
 <p align="center">
 <sub>Turning ideas into intelligent solutions, one line of code at a time.</sub>
 </p>
-```
+
