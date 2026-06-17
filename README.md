@@ -1,6 +1,6 @@
 # 🚀 Final GitHub README.md for Kamarajugadda Venkata Jaswanth
 
-<h1 align="center">Hi 👋, I'm Kamarajugadda Venkata Jaswanth</h1>
+<h1 align="center">I'm Kamarajugadda Venkata Jaswanth</h1>
 <h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
