@@ -1,7 +1,18 @@
-# 🚀 Final GitHub README.md for Kamarajugadda Venkata Jaswanth
 
-<h1 align="center">I'm Kamarajugadda Venkata Jaswanth</h1>
-<h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Kamarajugadda Venkata Jaswanth</h1>
+
+<h3 align="center">
+Computer Science Engineer | Full Stack Developer | AI & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Building+Intelligent+Applications;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+🎓 Final-Year CSE Student at VFSTR University • 💻 AI Developer • 🚀 Open to Opportunities
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Software+Engineering+Student;Future+Software+Engineer" />
