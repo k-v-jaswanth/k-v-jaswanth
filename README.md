@@ -183,7 +183,7 @@ https://github.com/k-v-jaswanth/Real-Time-AI-Security-System
 
 - English – Professional Proficiency
 - Telugu – Native
-- Hindi – Conversational
+
 
 ---
 
