@@ -1,217 +1,250 @@
+````md
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kamarajugadda Venkata Jaswanth</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Kamarajugadda%20Venkata%20Jaswanth&fontSize=40&fontColor=e2e8f0&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
 
-<h3 align="center">
-Computer Science Engineer | Full Stack Developer | AI & Machine Learning Enthusiast
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=800&lines=Java+%2F+Spring+Boot+Developer;React+%2F+Full+Stack+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Open+to+Internships+%26+Collaborations" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Building+Intelligent+Applications;Future+Software+Engineer" />
-</p>
+<br/>
 
-<p align="center">
-🎓 Final-Year CSE Student at VFSTR University • 💻 AI Developer • 🚀 Open to Opportunities
-</p>
+<a href="https://github.com/your-github-username">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Software+Engineering+Student;Future+Software+Engineer" />
-</p> -->
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 I am **Kamarajugadda Venkata Jaswanth**, a passionate **Computer Science and Engineering student** at **Vignan's Foundation for Science, Technology & Research (VFSTR)**.
+```java
+public class Jaswanth {
 
-💡 I enjoy transforming ideas into real-world software solutions using modern technologies. My interests lie in **Artificial Intelligence, Full Stack Development, Machine Learning, and Software Engineering**.
+    String role = "Full Stack Developer";
+    String university = "VFSTR University";
 
-🚀 I love building impactful projects that combine practical problem-solving with emerging technologies.
+    String[] skills = {
+        "Spring Boot",
+        "React",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Artificial Intelligence"
+    };
 
-🌱 Currently focusing on:
+    String[] interests = {
+        "AI Applications",
+        "Machine Learning",
+        "Software Engineering",
+        "System Design"
+    };
 
-- Full Stack Development
-- Artificial Intelligence Applications
-- Prompt Engineering
-- Machine Learning Fundamentals
-- System Design
+}
+````
 
-🎯 **Career Vision**
+🎓 B.Tech Computer Science Engineering Student at VFSTR University
 
-To become a skilled software engineer capable of building scalable, intelligent systems that solve real-world problems and create meaningful impact.
+💡 Passionate about Full Stack Development, Artificial Intelligence and Software Engineering.
+
+🚀 Building real-world applications using modern technologies and continuously improving problem-solving skills.
+
+🌱 Currently Learning
+
+* Advanced Spring Boot
+* System Design
+* Machine Learning
+* Cloud Computing
+* Prompt Engineering
 
 ---
 
 # 🧠 Core Skills
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- Software Development Principles
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- AI Integration
-- Prompt Engineering
-- Machine Learning Fundamentals
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Problem Solving
+* REST API Development
+* Database Design
+* Authentication & Authorization
+* Full Stack Development
+* AI Integration
+* Machine Learning Fundamentals
+* Software Engineering Principles
 
 ---
 
-# 🚀 Tech Stack
+# ⚙️ Tech Stack
 
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark"/>
 </p>
 
-## Web Development
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
 </p>
 
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"/>
 </p>
 
-## AI / ML
-
-- Prompt Engineering
-- Groq API Integration
-- LLM Applications
-- YOLOv8
-- DeepFace
-- Machine Learning Fundamentals
-
-## Tools & Platforms
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 🧠 Eureka – AI-Powered DSA Intuition Coach
+## 🏥 AI Medical Assistant
 
-An AI-powered learning platform designed to help students build intuition for Data Structures and Algorithms rather than memorizing solutions.
+AI-powered healthcare assistant designed to provide health guidance and recommendations.
 
-### Key Features
+### Tech Stack
 
-- Chat-based AI mentoring
-- JWT Authentication
-- Conversation persistence
-- Context-aware responses
-- Markdown & syntax-highlighted output
-- Clean responsive UI
-- Groq-powered LLama 3.3 integration
-
-### Technologies Used
-
-- React + TypeScript
-- Node.js + Express
-- PostgreSQL
-- Prisma ORM
-- JWT
-- Groq API
-- Tailwind CSS
-
-🔗 Repository:
-https://github.com/k-v-jaswanth/Eureka
+* HTML
+* CSS
+* JavaScript
+* AI Integration
 
 ---
 
-## 🛡️ Real-Time AI Security System
+## 📚 Library Management System
 
-An AI-powered security system that detects faces, objects, and unauthorized access using computer vision techniques.
+A modern library management platform with efficient book and user management.
 
-### Key Features
+### Tech Stack
 
-- Real-time face recognition
-- Authorized vs unauthorized detection
-- YOLOv8 object detection
-- Automatic intrusion recording
-- Instant alarm alerts
-- Event logging
-
-### Technologies Used
-
-- Python
-- OpenCV
-- YOLOv8
-- DeepFace
-- PyTorch
-
-🔗 Repository:
-https://github.com/k-v-jaswanth/Real-Time-AI-Security-System
+* React
+* JavaScript
+* CSS
 
 ---
 
-# 🎓 Verified Certifications
+## 🎵 Spotify Clone
 
-<p align="center">
+Responsive music streaming interface inspired by Spotify.
 
-<img src="https://img.shields.io/badge/Python-NIELIT-yellow?style=for-the-badge&logo=python"/>
+### Tech Stack
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-orange?style=for-the-badge&logo=amazonaws"/>
+* HTML
+* CSS
+* JavaScript
 
-<img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity-blue?style=for-the-badge&logo=cisco"/>
+---
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-purple?style=for-the-badge&logo=openai"/>
+## 🎬 BookMyShow Clone
 
-<img src="https://img.shields.io/badge/Generative%20AI-Fundamentals-green?style=for-the-badge"/>
+Movie ticket booking application currently under development.
 
-</p>
+### Tech Stack
+
+* React
+* Spring Boot
+* MySQL
+
+---
+
+## 🤖 AI Tool
+
+AI-powered web and mobile platform for automation and productivity.
+
+### Tech Stack
+
+* React
+* JavaScript
+* AI APIs
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎓 Education
+
+🎓 B.Tech Computer Science Engineering
+
+🏫 Vignan's Foundation for Science, Technology & Research (VFSTR)
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Full Stack Development
-- Prompt Engineering
-- Machine Learning
-- System Design
-- Cloud Computing Fundamentals
+* Advanced Java
+* Spring Boot
+* React Ecosystem
+* Machine Learning
+* System Design
+* Cloud Computing
 
 ---
 
 # 🌍 Languages
 
-- English – Professional Proficiency
-- Telugu – Native
-
+* English — Professional Proficiency
+* Telugu — Native
 
 ---
 
 # 🤝 Soft Skills
 
-- Teamwork and Collaboration
-- Leadership
-- Communication
-- Time Management
-- Analytical Thinking
-- Adaptability
+* Leadership
+* Communication
+* Teamwork
+* Time Management
+* Problem Solving
+* Adaptability
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jaswanthkv">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:kvjaswanth09@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/k-v-jaswanth">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -220,22 +253,23 @@ https://github.com/k-v-jaswanth/Real-Time-AI-Security-System
 
 # ✨ Developer Philosophy
 
-<p align="center">
+<div align="center">
 
-💻 Code with clarity  
-📚 Learn continuously  
-🛠 Build meaningful solutions  
-🚀 Improve every day
+💻 Code with Purpose
 
-</p>
+📚 Learn Continuously
 
-<p align="center">
+🚀 Build Meaningful Solutions
 
-🌟 Code. Learn. Build. Evolve.
+🤖 Use AI to Solve Real Problems
 
-</p>
+### 🌟 Code • Learn • Build • Innovate
 
-<p align="center">
-<sub>Turning ideas into intelligent solutions, one line of code at a time.</sub>
-</p>
+<sub>Turning ideas into impactful software solutions, one line of code at a time.</sub>
 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0b1220,100:1e3a5f&height=120&section=footer"/>
+
+```
+```
